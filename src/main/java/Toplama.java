@@ -1,6 +1,7 @@
 public class Toplama {
     public static void main(String[] args) {
         topla(3, 2,5,-10);
+        //v3 kubra calismalari
     }
 
     public static void topla(int... a) {
