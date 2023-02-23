@@ -3,7 +3,7 @@ public class Toplama {
         topla(3, 2,5,-10);
         //v3 kubra calismalari
         //v4 kubra kodlari
-        //v5 master
+       
 
     }
 
